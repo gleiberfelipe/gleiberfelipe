@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleiber-coelho-40ba6927/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gleiberfelipe@hotmail.com) 
 [![GitHub followers](https://img.shields.io/github/followers/gleiberfelipe?style=social)](https://github.com/gleiberfelipe)
-[![GitHub followers](https://img.shields.io/github/followers/gleiberfelipe?style=social)](https://github.com/gleibercoelho)
+
 
 Sou desenvolvedor frontend apaixonado por criar produtos digitais acessíveis, testáveis e com foco na experiência real de usuário.  
 Atualmente, meu foco está em React, Next.js, testes automatizados (Vitest, Jest, Testing Library) e deploy na AWS.  
@@ -51,8 +51,8 @@ Atualmente estou aprimorando:
 
 ## ✉️ Entre em contato
 
-- [LinkedIn](https://www.linkedin.com/in/gleiberfelipe/)  
-- [Email](mailto:gleiberfelipe@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/gleiber-coelho-40ba6927/)  
+- [Email](mailto:gleiberfelipe@hotmail.com)  
 
 ---
 
